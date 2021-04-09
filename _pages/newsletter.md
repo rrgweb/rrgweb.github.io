@@ -1,4 +1,7 @@
-
+---
+permalink: /newsletter/
+title: "Newsletter"
+---
 
 The group publishes an occasional newsletter, distributed to members by email. An archive of these newsletters is provided below
 
