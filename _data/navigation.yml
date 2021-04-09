@@ -1,11 +1,17 @@
 main:
-  - title: "News"
+  - title: "Posts"
     url: /posts/
+  - title: "Newsletters"
+    url: /newsletters/
   - title: "Membership"
-    url: /membership/
+    url: /membership/  
   - title: "GB3WH"
     url: /gb3wh/
   - title: "GB3TD"
     url: /gb3td/  
-  - title: "About Us"
+  - title: "GB7TC"
+    url: /gb7tc/
+  - title: "MB7USW"
+    url: /mb7usw/
+  - title: "About"
     url: /about/
