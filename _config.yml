@@ -75,6 +75,7 @@ plugins:
 footer:
 links:
 - label: "Privacy Policy"
+  icon: "fas fa-fw fa-link"
   url: "https://rrgweb.github.io/privacy/"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
