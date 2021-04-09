@@ -18,8 +18,10 @@ Please also email [accounts@rrg.org.uk](accounts@rrg.org.uk) advising a payment 
 
 [![Donate](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8W6FF5Z7H99UL)
 
+---
 
-### Current Membership List 2020-2021
+
+### Current Membership (2020-2021)
 
 2E0CYS\
 2E0LUF\
@@ -61,6 +63,7 @@ M5CBS\
 M6CUE\
 M7APR\
 M7CYB  
+
 ---
 
 *Last updated 9th April 2021*  
