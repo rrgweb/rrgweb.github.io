@@ -5,7 +5,7 @@ title: "Membership"
 
 Please join us or donate to keep your repeaters running - we can accept payments by the methods below:
 
-#### Direct bank transfer - using the following details...
+##### Direct bank transfer 
 
 Sort Code: 30-98-41  
 Account No: 2650917  
@@ -14,11 +14,11 @@ Pay Ref: "Your Callsign - Year" e.g "G0UWS - 2021"
 
 Please also email [accounts@rrg.org.uk](accounts@rrg.org.uk) advising a payment has been made.
 
-#### PayPal Payments - using the Donate button below...
+##### PayPal Payments
 
 [![Donate](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8W6FF5Z7H99UL)
 
-### Current Members 2020-2021
+### Current Membership List 2020-2021
 
 2E0CYS\
 2E0LUF\
