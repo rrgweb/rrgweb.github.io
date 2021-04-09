@@ -18,7 +18,7 @@ email: RRG
 description: "Welcome to the Ridgeway Repeater Group website"
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: air
+minimal_mistakes_skin: contrast
 search: false
 
 # Build settings
@@ -73,9 +73,9 @@ plugins:
 #      url: "https://instagram.com/"
 
 footer:
-#  links:
-#- label: "Privacy Policy"
-#  url: "/privacy/"
+links:
+- label: "Privacy Policy"
+  url: "/privacy/"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/"
