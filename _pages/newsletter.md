@@ -6,14 +6,18 @@ title: "Newsletter"
 The group publishes an occasional newsletter, distributed to members by email. An archive of these newsletters is provided below
 
 #### 2020
-Quarter 3 2020
-Quarter 2 2020
-Quarter 1 2020
+[Quarter 3 2020](https://www.dropbox.com/s/202t2hhxndxo0l1/Q3%202020%20Newsletter.pdf?dl=0)\
+[Quarter 2 2020](https://www.dropbox.com/s/ttzrte32415i3b4/Q2%202020%20Newsletter.pdf?dl=0)\
+[Quarter 1 2020](https://www.dropbox.com/s/m72gv2vhgf6miae/Q1%202020%20Newsletter.pdf?dl=0)  
 
 #### 2019
-Quarter 3 2019
-Quarter 2 2019
-Quarter 1 2019
+[Quarter 3 2019](https://www.dropbox.com/s/9dw3ijjsmep8rc4/Q3%202019%20Newsletter.pdf?dl=0)\
+[Quarter 2 2019](https://www.dropbox.com/s/uxpqsjrser0w4fr/Q2%202019%20Newsletter.pdf?dl=0)\
+[Quarter 1 2019](https://www.dropbox.com/s/duzgqq6u0ldwxxi/Q1%202019%20Newsletter.pdf?dl=0)  
+
+---
+
+*Under construction below*
 
 #### 2018
 Quarter 4 2018 
