@@ -75,7 +75,7 @@ plugins:
 footer:
    links:
      - label: "Privacy Policy"
-       url: "https://rrgweb.github.io"
+       url: "https://rrgweb.github.io/privacy/"
 
 defaults:
   # _posts
