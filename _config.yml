@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Ridgeway Repeater Group
 email: RRG
-description: Welcome to the Ridgeway Repeater Group website
+description: "Welcome to the Ridgeway Repeater Group website"
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: air
 search: false
 
 # Build settings
