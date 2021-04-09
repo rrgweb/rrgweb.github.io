@@ -6,7 +6,7 @@ title: "Ridgeway Repeater Group Privacy Policy"
 
 ### Privacy Policy
 
-The Ridgeway Repeater Group (RRG) is a not for profit organisation operating in the field of Amateur Radio. This privacy policy explains how RRG uses any personal information we collect about you when you become a member. It applies to both the club/group and its website www.rrg.org.uk and to no other website.
+The Ridgeway Repeater Group (RRG) is a not for profit organisation operating in the field of Amateur Radio. This privacy policy explains how RRG uses any personal information we collect about you when you become a member. It applies to both the club/group and its website [www.rrg.org.uk](http://www.rrg.org.uk) and to no other website.
 
 #### What information do we collect about you?
 
@@ -31,7 +31,8 @@ Any information obtained from you will be used exclusively by RRG for its own pu
 #### Access to your information
 
 You have the right to request a copy of the information which we hold about you at anytime. We would like to ensure that the personal information that we hold about you is accurate and up to date at all times, so please let us know of any changes when they occur. 
-Changes to our privacy policy
+
+#### Changes to our privacy policy
 
 We keep our privacy policy under regular review and we will place any updates on our web page. This privacy policy was last updated on 14th May 2018.
 
@@ -40,6 +41,6 @@ We keep our privacy policy under regular review and we will place any updates on
 Please contact us if you have any questions about our privacy policy or information we hold about you by email to :
 
 
-Secretary: Rob G4XUT g4xut@rrg.org.uk
+Secretary: Rob G4XUT [g4xut@rrg.org.uk](mailto:g4xut@rrg.org.uk)
 
 In accordance with The General Data Protection Regulation (GDPR) we may only retain personal information about you if you consent to this in writing.
