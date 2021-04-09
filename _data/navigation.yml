@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "News"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Membership"
+    url: /membership/
+  - title: "GB3WH"
+    url: /gb3wh/
+  - title: "GB3TD"
+    url: /gb3td/  
+  - title: "About Us"
     url: /about/
