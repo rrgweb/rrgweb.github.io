@@ -1,8 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Newsletters"
-    url: /newsletters/
+  - title: "Newsletter"
+    url: /newsletter/
   - title: "Membership"
     url: /membership/  
   - title: "GB3WH"
