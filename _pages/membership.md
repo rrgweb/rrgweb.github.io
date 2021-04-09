@@ -10,13 +10,14 @@ Please join us or donate to keep your repeaters running - we can accept payments
 Sort Code: 30-98-41  
 Account No: 2650917  
 Account Name: Ridgeway Repeater Group  
-Pay Ref: "Your Callsign - Year" e.g "G0UWS - 2021"  
+Payment Reference: "Your Callsign - Year" e.g "G0UWS - 2021"  
 
 Please also email [accounts@rrg.org.uk](accounts@rrg.org.uk) advising a payment has been made.
 
 ##### PayPal Payments
 
 [![Donate](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8W6FF5Z7H99UL)
+
 
 ### Current Membership List 2020-2021
 
@@ -59,4 +60,7 @@ M3XIR\
 M5CBS\
 M6CUE\
 M7APR\
-M7CYB\
+M7CYB  
+---
+
+*Last updated 9th April 2021*  
