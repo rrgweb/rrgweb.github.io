@@ -13,5 +13,9 @@ main:
     url: /gb7tc/
   - title: "MB7USW"
     url: /mb7usw/
-  - title: "About"
+  - title: "DMR Information"
+    url: /dmrinfo/
+  - title: "RRG History"
+    url: /history/
+  - title: "Committee"
     url: /about/
