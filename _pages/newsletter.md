@@ -38,8 +38,8 @@ The group publishes an occasional newsletter, distributed to members by email. A
 
 #### 2016
 [Quarter 4 2016]({{ site.url }}/assets/pdf/2016_q4_newsletter.pdf)\
-[Quarter 2 2017]({{ site.url }}/assets/pdf/2016_04_newsletter.pdf)\
-[Quarter 1 2017]({{ site.url }}/assets/pdf/2016_02_newsletter.pdf)  
+[Quarter 2 2016]({{ site.url }}/assets/pdf/2016_04_newsletter.pdf)\
+[Quarter 1 2016]({{ site.url }}/assets/pdf/2016_02_newsletter.pdf)  
 
 #### 2015
 [Quarter 4 2015]({{ site.url }}/assets/pdf/2015_12_newsletter.pdf)\
