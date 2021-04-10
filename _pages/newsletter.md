@@ -4,6 +4,7 @@ title: "Newsletter"
 toc: true
 toc_label: "Year"
 toc_icon: "cog"
+toc_sticky: true
 ---
 
 The group publishes an occasional newsletter, distributed to members by email. An archive of these newsletters is provided below
