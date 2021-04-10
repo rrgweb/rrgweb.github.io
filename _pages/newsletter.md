@@ -6,24 +6,26 @@ title: "Newsletter"
 The group publishes an occasional newsletter, distributed to members by email. An archive of these newsletters is provided below
 
 #### 2020
-[Quarter 3 2020](https://www.dropbox.com/s/202t2hhxndxo0l1/Q3%202020%20Newsletter.pdf?dl=0)\
-[Quarter 2 2020](https://www.dropbox.com/s/ttzrte32415i3b4/Q2%202020%20Newsletter.pdf?dl=0)\
-[Quarter 1 2020](https://www.dropbox.com/s/m72gv2vhgf6miae/Q1%202020%20Newsletter.pdf?dl=0)  
+[Quarter 3 2020]({{ site.url }}/assets/pdf/2020_q3_newsletter.pdf)\
+[Quarter 2 2020]({{ site.url }}/assets/pdf/2020_q2_newsletter.pdf)\
+[Quarter 1 2020]({{ site.url }}/assets/pdf/2020_q1_newsletter.pdf)  
 
 #### 2019
-[Quarter 3 2019](https://www.dropbox.com/s/9dw3ijjsmep8rc4/Q3%202019%20Newsletter.pdf?dl=0)\
-[Quarter 2 2019](https://www.dropbox.com/s/uxpqsjrser0w4fr/Q2%202019%20Newsletter.pdf?dl=0)\
-[Quarter 1 2019](https://www.dropbox.com/s/duzgqq6u0ldwxxi/Q1%202019%20Newsletter.pdf?dl=0)  
+[Quarter 3 2019]({{ site.url }}/assets/pdf/2019_q3_newsletter.pdf)\
+[Quarter 2 2019]({{ site.url }}/assets/pdf/2019_q2_newsletter.pdf)\
+[Quarter 1 2019]({{ site.url }}/assets/pdf/2019_q1_newsletter.pdf)  
+
+#### 2018
+[Quarter 4 2018]({{ site.url }}/assets/pdf/2018_q4_newsletter.pdf)\
+[Quarter 3 2018]({{ site.url }}/assets/pdf/2018_q3_newsletter.pdf)\
+[Quarter 2 2018]({{ site.url }}/assets/pdf/2018_q2_newsletter.pdf)\
+[Quarter 1 2018]({{ site.url }}/assets/pdf/2018_q1_newsletter.pdf)\
 
 ---
 
 *Under construction below*
 
-#### 2018
-Quarter 4 2018 
-Quarter 3 2018
-Quarter 2 2018
-Quarter 1 2018
+
 
 #### 2017
 Quarter 4 2017
