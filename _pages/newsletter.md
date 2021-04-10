@@ -30,6 +30,12 @@ The group publishes an occasional newsletter, distributed to members by email. A
 [Quarter 2 2018]({{ site.url }}/assets/pdf/2018_q2_newsletter.pdf)\
 [Quarter 1 2018]({{ site.url }}/assets/pdf/2018_q1_newsletter.pdf)  
 
+#### 2017
+[Quarter 4 2017]({{ site.url }}/assets/pdf/2017_q4_newsletter.pdf)\
+[Quarter 3 2017]({{ site.url }}/assets/pdf/2017_q3_newsletter.pdf)\
+[Quarter 2 2017]({{ site.url }}/assets/pdf/2017_q2_newsletter.pdf)\
+[Quarter 1 2017]({{ site.url }}/assets/pdf/2017_q1_newsletter.pdf)  
+
 ---
 
 *Under construction below*
