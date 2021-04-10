@@ -54,12 +54,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-#author:
-#  name   : "First Lastname"
-#  avatar : "/assets/images/bio-photo.jpg"
+author:
+   name   : "First Lastname"
+   avatar : "http://www.hamqsl.com/solarvhf.php"
 #  bio    : "My awesome biography constrained to a sentence or two goes here."
 #  links:
-#    - label: "Website"
+#     - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://"
 #    - label: "Twitter"
