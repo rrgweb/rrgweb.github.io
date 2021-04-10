@@ -19,7 +19,7 @@ The group publishes an occasional newsletter, distributed to members by email. A
 [Quarter 4 2018]({{ site.url }}/assets/pdf/2018_q4_newsletter.pdf)\
 [Quarter 3 2018]({{ site.url }}/assets/pdf/2018_q3_newsletter.pdf)\
 [Quarter 2 2018]({{ site.url }}/assets/pdf/2018_q2_newsletter.pdf)\
-[Quarter 1 2018]({{ site.url }}/assets/pdf/2018_q1_newsletter.pdf)\
+[Quarter 1 2018]({{ site.url }}/assets/pdf/2018_q1_newsletter.pdf)  
 
 ---
 
