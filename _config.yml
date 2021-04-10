@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ridgeway Repeater Group
+subtitle: GB3WH, GB3TD, GB7TC & MB7USW
 email: RRG
 description: "Welcome to the Ridgeway Repeater Group website"
 twitter_username: username
