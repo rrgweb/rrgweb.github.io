@@ -36,29 +36,29 @@ The group publishes an occasional newsletter, distributed to members by email. A
 [Quarter 2 2017]({{ site.url }}/assets/pdf/2017_q2_newsletter.pdf)\
 [Quarter 1 2017]({{ site.url }}/assets/pdf/2017_q1_newsletter.pdf)  
 
+#### 2016
+[Quarter 4 2016]({{ site.url }}/assets/pdf/2016_q4_newsletter.pdf)\
+[Quarter 2 2017]({{ site.url }}/assets/pdf/2016_04_newsletter.pdf)\
+[Quarter 1 2017]({{ site.url }}/assets/pdf/2016_02_newsletter.pdf)  
+
+#### 2015
+[Quarter 4 2015]({{ site.url }}/assets/pdf/2015_12_newsletter.pdf)\
+[Quarter 3 2015]({{ site.url }}/assets/pdf/2015_10_newsletter.pdf)\
+[Quarter 2 2015]({{ site.url }}/assets/pdf/2015_06_newsletter.pdf)\
+[Quarter 1 2015]({{ site.url }}/assets/pdf/2015_02_newsletter.pdf)  
+
+#### 2014
+[December 2014]({{ site.url }}/assets/pdf/2014_12_newsletter.pdf)\
+[October 2014]({{ site.url }}/assets/pdf/2014_10_newsletter.pdf)\
+[August 2014]({{ site.url }}/assets/pdf/2014_08_newsletter.pdf)\
+[June 2014]({{ site.url }}/assets/pdf/2014_06_newsletter.pdf)\
+[April 2014]({{ site.url }}/assets/pdf/2014_04_newsletter.pdf)  
+
+
 ---
 
 *Under construction below*
 
-#### 2016
-Quarter 4 2016
-Quarter 3 2016
-Quarter 2 2016
-Quarter 1 2016
-
-#### 2015
-December 2015
-October 2015
-August 2015
-June 2015
-April 2015
-February 2015
-
-#### 2014
-December 2014
-October 2014
-August 2014
-June 2014
 
 #### 2013
 April 2013
