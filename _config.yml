@@ -58,10 +58,10 @@ author:
 #  name   : "First Lastname"
 #  avatar : ""
 #  bio    : "My awesome biography constrained to a sentence or two goes here."
-   links:
-     - label: ""
-       icon: "http://www.hamqsl.com/solarvhf.php"
-       url: "https://"
+#   links:
+#     - label: ""
+#       icon: "http://www.hamqsl.com/solarvhf.php"
+#       url: "https://"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
@@ -76,12 +76,6 @@ footer:
    links:
      - label: "Privacy Policy"
        url: "https://rrgweb.github.io/privacy/"
-
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
 
 defaults:
   # _posts
