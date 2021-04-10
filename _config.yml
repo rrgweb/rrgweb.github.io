@@ -77,6 +77,12 @@ footer:
      - label: "Privacy Policy"
        url: "https://rrgweb.github.io/privacy/"
 
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+
 defaults:
   # _posts
   - scope:
