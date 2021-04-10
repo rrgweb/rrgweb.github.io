@@ -15,6 +15,7 @@ The group publishes an occasional newsletter, distributed to members by email. A
 [Quarter 1 2020]({{ site.url }}/assets/pdf/2020_q1_newsletter.pdf)  
 
 #### 2019
+[Quarter 4 2019]({{ site.url }}/assets/pdf/2019_q4_newsletter.pdf)\
 [Quarter 3 2019]({{ site.url }}/assets/pdf/2019_q3_newsletter.pdf)\
 [Quarter 2 2019]({{ site.url }}/assets/pdf/2019_q2_newsletter.pdf)\
 [Quarter 1 2019]({{ site.url }}/assets/pdf/2019_q1_newsletter.pdf)  
