@@ -40,14 +40,6 @@ The group publishes an occasional newsletter, distributed to members by email. A
 
 *Under construction below*
 
-
-
-#### 2017
-Quarter 4 2017
-Quarter 3 2017
-Quarter 2 2017
-Quarter 1 2017
-
 #### 2016
 Quarter 4 2016
 Quarter 3 2016
