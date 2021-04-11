@@ -55,41 +55,36 @@ The group publishes an occasional newsletter, distributed to members by email. A
 [April 2014]({{ site.url }}/assets/pdf/2014_04_newsletter.pdf)  
 
 
----
-
-*Under construction below*
-
-
 #### 2013
-April 2013
+[April 2013]({{ site.url }}/assets/pdf/2013_04_newsletter.pdf)  
 
 #### 2012
-April 2012
+[April 2012]({{ site.url }}/assets/pdf/2012_04_newsletter.pdf)  
 
 #### 2011 
-April 2011
+[April 2011]({{ site.url }}/assets/pdf/2011_04_newsletter.pdf)  
 
 #### 2010
-May 2010
+[May 2010]({{ site.url }}/assets/pdf/2010_05_newsletter.pdf)  
 
 #### 2009
-December 2009
-April 2009 
+[December 2009]({{ site.url }}/assets/pdf/2009_12_newsletter.pdf)\
+[April 2009]({{ site.url }}/assets/pdf/2009_04_newsletter.pdf)   
 
 #### 2008
-December 2008
-April 2008
+[December 2008]({{ site.url }}/assets/pdf/2008_12_newsletter.pdf)\
+[April 2008]({{ site.url }}/assets/pdf/2008_04_newsletter.pdf)  
 
 #### 2007
-April 2007
+[April 2007]({{ site.url }}/assets/pdf/2007_04_newsletter.pdf)  
 
 #### 2006
-April 2006
+[April 2006]({{ site.url }}/assets/pdf/2006_04_newsletter.pdf)  
 
 #### 2005
-December 2005
-May 2005
+[December 2005]({{ site.url }}/assets/pdf/2005_12_newsletter.pdf)\
+[May 2005]({{ site.url }}/assets/pdf/2005_05_newsletter.pdf)  
 
 #### 2004
-December 2004
-April 2004
+[December 2004]({{ site.url }}/assets/pdf/2004_12_newsletter.pdf)\
+[April 2004]({{ site.url }}/assets/pdf/2004_04_newsletter.pdf)  
