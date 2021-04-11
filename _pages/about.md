@@ -1,8 +1,30 @@
 ---
 permalink: /about/
-title: "About"
+title: "RRG Committee"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+### What we do
+An Elected committee dedicated to providing repeaters in the Swindon area\
+We apply for and maintain the groups repeater NOV's\
+We obtain and or build the necessary equipment\
+We install the equipment\
+We maintain the equipment\
+We pay the site fees, insurance, etc.\
+We hold an AGM to let you know what we have been doing  
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### Ridgeway Repeater Group Committee 2020-2021
+
+Chairman: David M0TFY m0tfy@blueherd.co.uk\
+Secretary: Rob G4XUT g4xut@rrg.org.uk\
+Treasurer: Martin G0BQK accounts@rrg.org.uk  
+
+Committee member: Andy G0BEQ g0beq@rrg.org.uk\
+Committee member: Andy G0UWS g0uws@rrg.org.uk\
+Committee member: Andy M1EFY m1efy.radio@gmail.com  
+
+GB3WH repeater keeper: Tony G4LDL g4ldl@rrg.org.uk\
+GB3TD repeater keeper: Rob G4XUT g4xut@rrg.org.uk\
+GB7TC repeater keeper: Nigel G8VRI g8vri@rrg.org.uk\
+MB7USW keeper: Andy G0UWS g0uws@rrg.org.uk  
+
+Website maintenance: Andy M1EFY  m1efy.radio@gmail.com  
