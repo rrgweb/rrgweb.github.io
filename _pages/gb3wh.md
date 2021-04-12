@@ -2,9 +2,8 @@
 permalink: /gb3wh/
 title: "GB3WH 145MHz Analogue Voice Repeater"
 ---
-|   |   |
+|**Callsign**|**GB3WH**|
 |---|---|
-|**Callsign**|GB3WH|
 |**Band**|	2m VHF|
 |**Frequency	Input**| 145.050MHz
 |**Output**| 145.650MHz|
