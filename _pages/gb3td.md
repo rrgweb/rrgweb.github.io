@@ -12,7 +12,7 @@ title: "GB3TD 433MHz Analogue Voice Repeater"
 |**Radio Equipment**| Motorola GM340 x 2|
 |**Logic Control System**|G8CUL Logic|
 |**Cavity Filters**|Motorola Duplexer & Combiner with GB7TC|
-|**Antenna**|Stacked dipole Omnidirectional single aerial working|
+|**Antenna**|Stacked dipole Omnidirectional / Single aerial working|
 |**Location**|9km Southeast of Swindon, Wiltshire|
 |**Locator**|	IO91DL|
 |**Repeater Keeper**|Rob G4XUT|
