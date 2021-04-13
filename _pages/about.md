@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "RRG Committee"
+classes: wide
 ---
 
 ### What we do
