@@ -15,11 +15,11 @@ Information will be collected from you on initial contact and supplemented as an
 
 The details we will obtain from you will be:
 
-•               Full name  
-•               Radio Callsign  
-•               Address  
-•               Telephone numbers  
-•               Email address  
+* Full name  
+* Radio Callsign  
+* Address  
+* Telephone numbers  
+* Email address  
 
 In certain cases – but only with your consent – we may ask for other information to be provided.
 
