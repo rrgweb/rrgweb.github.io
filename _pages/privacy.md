@@ -1,6 +1,7 @@
 ---
 permalink: /privacy/
 title: "Ridgeway Repeater Group Privacy Policy"
+classes: wide
 ---
 
 
