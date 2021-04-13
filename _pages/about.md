@@ -4,19 +4,19 @@ title: "RRG Committee"
 ---
 
 ### What we do
-An Elected committee dedicated to providing repeaters in the Swindon area\
-We apply for and maintain the groups repeater NOV's\
-We obtain and or build the necessary equipment\
-We install the equipment\
-We maintain the equipment\
-We pay the site fees, insurance, etc.\
-We hold an AGM to let you know what we have been doing  
+An elected committee dedicated to providing repeaters in the Swindon area\
+* We apply for and maintain the groups repeater NOV's\
+* We obtain and or build the necessary equipment\
+* We install the equipment\
+* We maintain the equipment\
+* We pay the site fees, insurance, etc.\
+* We hold an AGM to let you know what we have been doing  
 
 ### Ridgeway Repeater Group Committee 2020-2021
 
-Chairman: David M0TFY m0tfy@blueherd.co.uk\
-Secretary: Rob G4XUT g4xut@rrg.org.uk\
-Treasurer: Martin G0BQK accounts@rrg.org.uk  
+Chairman: David M0TFY [m0tfy@blueherd.co.uk](mailto:m0tfy@blueherd.co.uk)\
+Secretary: Rob G4XUT [g4xut@rrg.org.uk](mailto:g4xut@rrg.org.uk)\
+Treasurer: Martin G0BQK [accounts@rrg.org.uk](mailto:accounts@rrg.org.uk)  
 
 Committee member: Andy G0BEQ g0beq@rrg.org.uk\
 Committee member: Andy G0UWS g0uws@rrg.org.uk\
