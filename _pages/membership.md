@@ -1,6 +1,7 @@
 ---
 permalink: /membership/
 title: "Membership"
+classes: wide
 
 sidebar:
   - title: "Current Members (2020-2021)"
