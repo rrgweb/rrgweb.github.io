@@ -58,7 +58,7 @@ Account No: 2650917
 Account Name: Ridgeway Repeater Group  
 Payment Reference: "Your Callsign - Year" e.g "G0UWS - 2021"  
 
-Please also email [accounts@rrg.org.uk](accounts@rrg.org.uk) advising a payment has been made.
+Please also email [accounts@rrg.org.uk](mailto:accounts@rrg.org.uk) advising a payment has been made.
 
 ##### PayPal Payments
 
