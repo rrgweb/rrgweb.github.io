@@ -4,8 +4,11 @@ title: "Membership"
 
 sidebar:
   - title: "Current Membership (2020-2021)"
-  - text: "Hello"
-  - text: "Hello 2"
+  - text: 2E0CYS
+  - text: 2E0LUF
+  - text: 2E0WHQ
+  - text: 2E0YGM
+  - text: G0BEQ
 ---
 
 Please join us or donate to keep your repeaters running - we can accept payments by the methods below:
