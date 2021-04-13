@@ -4,7 +4,7 @@ title: "GB3WH 145MHz Analogue Voice Repeater"
 
 sidebar:
   - title:
-      image: ({{ site.url }}/assets/images/gb3wh.jpg)
+      image: http://rrgweb.github.io/assets/images/gb3wh.jpg)
 ---
 |**Callsign**|**GB3WH**|
 |---|---|
