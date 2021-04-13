@@ -1,6 +1,13 @@
 ---
 permalink: /membership/
 title: "Membership"
+
+sidebar:
+  - title: "Current Membership (2020-2021)"
+    text: "2E0CYS"
+    text: "2E0LUF"
+    text: "2E0WHQ"
+    text: "2E0YGM"
 ---
 
 Please join us or donate to keep your repeaters running - we can accept payments by the methods below:
