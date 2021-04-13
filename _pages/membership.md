@@ -4,46 +4,8 @@ title: "Membership"
 
 sidebar:
   - title: "Current Membership (2020-2021)"
-    text: "2E0CYS\
-2E0LUF\
-2E0WHQ\
-2E0YGM\
-G0BEQ\
-G0BQK\
-G0DVB\
-G0HCO\
-G0TDY\
-G0UWS\
-G0UWU\
-G1ERM\
-G1NCG\
-G1OQV\
-G4AJA\
-G4GUN\
-G4LDL\
-G4MUF\
-G4XIB\
-G4XUT\
-G6REG\
-G6ZMX\
-G8MXE\
-G8VGQ\
-G8VRI\
-G8VVY\
-M0MPL\
-M0MTA\
-M0RFI\
-M0SWL\
-M0TFY\
-M1CJE\
-M1CZI\
-M1EFY\
-M3FGR\
-M3XIR\
-M5CBS\
-M6CUE\
-M7APR\
-M7CYB "
+  - text: "Hello"
+  - text: "Hello 2"
 ---
 
 Please join us or donate to keep your repeaters running - we can accept payments by the methods below:
