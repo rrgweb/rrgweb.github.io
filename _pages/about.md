@@ -5,12 +5,12 @@ classes: wide
 ---
 
 ### What we do
-An elected committee dedicated to providing repeaters in the Swindon area\
-* We apply for and maintain the groups repeater NOV's\
-* We obtain and or build the necessary equipment\
-* We install the equipment\
-* We maintain the equipment\
-* We pay the site fees, insurance, etc.\
+An elected committee dedicated to providing repeaters in the Swindon area  
+* We apply for and maintain the groups repeater NOVs
+* We obtain and or build the necessary equipment
+* We install the equipment
+* We maintain the equipment
+* We pay the site fees, insurance, etc.
 * We hold an AGM to let you know what we have been doing  
 
 ### Ridgeway Repeater Group Committee 2020-2021
