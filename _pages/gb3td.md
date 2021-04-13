@@ -1,10 +1,12 @@
 ---
 permalink: /gb3td/
 title: "GB3TD 433MHz Analogue Voice Repeater"
+
 sidebar:
    - title: "  "
      image: http://rrgweb.github.io/assets/images/gb3td.jpg
 ---
+
 |**Callsign**|**GB3TD**|
 |---|---|
 |**Band**|70cms UHF|
