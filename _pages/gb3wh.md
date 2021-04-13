@@ -3,7 +3,7 @@ permalink: /gb3wh/
 title: "GB3WH 145MHz Analogue Voice Repeater"
 
 sidebar:
-   - title: ""
+   - title: "  "
      image: http://rrgweb.github.io/assets/images/gb3wh.jpg
 ---
 
