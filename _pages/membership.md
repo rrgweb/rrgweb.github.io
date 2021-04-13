@@ -9,6 +9,42 @@ sidebar:
   - text: 2E0WHQ
   - text: 2E0YGM
   - text: G0BEQ
+  - text: G0BQK
+  - text: G0DVB
+  - text: G0HCO
+  - text: G0TDY
+  - text: G0UWS
+  - text: G0UWU
+  - text: G1ERM
+  - text: G1NCG
+  - text: G1OQV
+  - text: G4AJA
+  - text: G4GUN
+  - text: G4LDL
+  - text: G4MUF
+  - text: G4XIB
+  - text: G4XUT
+  - text: G6REG
+  - text: G6ZMX
+  - text: G8MXE
+  - text: G8VGQ
+  - text: G8VRI
+  - text: G8VVY
+  - text: M0MPL
+  - text: M0MTA
+  - text: M0RFI
+  - text: M0SWL
+  - text: M0TFY
+  - text: M1CJE
+  - text: M1CZI
+  - text: M1EFY
+  - text: M3FGR
+  - text: M3XIR
+  - text: M5CBS
+  - text: M6CUE
+  - text: M7APR
+  - text: M7CYB 
+  - text: *Last updated 9th April 2021* 
 ---
 
 Please join us or donate to keep your repeaters running - we can accept payments by the methods below:
@@ -28,50 +64,3 @@ Please also email [accounts@rrg.org.uk](accounts@rrg.org.uk) advising a payment 
 
 ---
 
-
-### Current Membership (2020-2021)
-
-2E0CYS\
-2E0LUF\
-2E0WHQ\
-2E0YGM\
-G0BEQ\
-G0BQK\
-G0DVB\
-G0HCO\
-G0TDY\
-G0UWS\
-G0UWU\
-G1ERM\
-G1NCG\
-G1OQV\
-G4AJA\
-G4GUN\
-G4LDL\
-G4MUF\
-G4XIB\
-G4XUT\
-G6REG\
-G6ZMX\
-G8MXE\
-G8VGQ\
-G8VRI\
-G8VVY\
-M0MPL\
-M0MTA\
-M0RFI\
-M0SWL\
-M0TFY\
-M1CJE\
-M1CZI\
-M1EFY\
-M3FGR\
-M3XIR\
-M5CBS\
-M6CUE\
-M7APR\
-M7CYB  
-
----
-
-*Last updated 9th April 2021*  
