@@ -3,7 +3,7 @@ permalink: /membership/
 title: "Membership"
 
 sidebar:
-  - title: "Current Membership (2020-2021)"
+  - title: "Current Members (2020-2021)"
   - text: 2E0CYS
   - text: 2E0LUF
   - text: 2E0WHQ
