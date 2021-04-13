@@ -1,6 +1,7 @@
 ---
 permalink: /history/
 title: "RRG History"
+classes: wide
 ---
 
 The Ridgeway Repeater Group (RRG) was formed on 29th April 1987 at an inaugural meeting at Oakfield School Swindon (was The University of Bath site in Swindon and currently being developed by Nationwide Building Society for housing)
