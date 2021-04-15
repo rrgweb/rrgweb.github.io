@@ -22,9 +22,11 @@ sidebar:
 |**Locator**|	IO91DL|
 |**Repeater Keeper**|Rob G4XUT|
 
+!["Coverage map by kind permission of UKrepeater.net"]({{ site.url }}{{ site.baseurl }}/assets/images/gb3td_coverage.jpg)
 
-High definition coverage map, courtesy of UKRepeater.net
+[High definition coverage map, courtesy of UKRepeater.net]({{ site.url }}{{ site.baseurl }}/assets/images/gb3td_fullmap.jpg)
+{: .full}
 
 GB3TD is a simple repeater to use, however, if you would like to read about the ins and outs of the logic, you may do so in the [User Guide]({{ site.url }}/assets/pdf/GB3TD_userguide.pdf)
 
-For the latest instructions on using Echolink on GB3TD please see the Echolink page here.
+For the latest instructions on using Echolink on GB3TD please see the Echolink page.
