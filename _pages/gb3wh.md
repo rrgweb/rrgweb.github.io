@@ -20,6 +20,7 @@ sidebar:
 |**Locator**|	IO91EM|
 |**Repeater Keeper**|	Tony G4LDL|
 
+![GB3WH Coverage]({{ site.url }}{{ site.baseurl }}/assets/images/gb3wh_coverage.jpg)
 
 Coverage map by kind permission of UKrepeater.net
 
