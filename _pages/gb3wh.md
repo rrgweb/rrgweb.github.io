@@ -23,5 +23,6 @@ sidebar:
 !["Coverage map by kind permission of UKrepeater.net"]({{ site.url }}{{ site.baseurl }}/assets/images/gb3wh_coverage.jpg)
 
 [High definition coverage map, courtesy of UKRepeater.net]({{ site.url }}{{ site.baseurl }}/assets/images/gb3wh_fullmap.jpg)
+{: .full}
 
 GB3WH is a simple repeater to use, however, if you would like to read about the ins and outs of the logic, you may do so in the [User Guide]({{ site.url }}/assets/pdf/GB3WH_userguide.pdf).
