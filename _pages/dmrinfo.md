@@ -50,7 +50,7 @@ All except TG9 are also linked through the Phoenix Internet based core links Wor
 
 #### ROAMING TALK GROUPS
 
-Roaming TG are used to access the DMR repeaters in another region, for example, from GB7TC calling someone in Scotland.
+Roaming TG are used to access the DMR repeaters in another region, for example, from GB7TC to call someone in Scotland.
 
 |Slot|Talk Group|Name|
 |---|---|---|
@@ -75,15 +75,15 @@ Roaming TG are used to access the DMR repeaters in another region, for example, 
 ##### Local monitoring of GB7TC
 This shows who is using GB7TC, by following links you can monitor an individual call sign or switch to other DMR repeaters.
 
-http://www.opendmr.net/monitor.php?filter=rpt&rptid=235250
+[http://www.opendmr.net/monitor.php?filter=rpt&rptid=235250](http://www.opendmr.net/monitor.php?filter=rpt&rptid=235250)
 
 ##### Monitoring the UK DMR network
 This shows the status of the UK (and some Dutch) DMR repeaters, also the traffic on the links to Wires and Brandmeister networks.
 
-http://phoenix-k.opendmr.net/ipsc/
+[http://phoenix-k.opendmr.net/ipsc/](http://phoenix-k.opendmr.net/ipsc/)
 
-I use it to monitor and also see who is active!
-Checking the internet link from GB7TC
+##### Checking the internet link from GB7TC
+
 If you use the echo TG9990 and it fails to echo audio, then the link is down or there is a core issue. In most cases this will resolve within a few minutes as the link from GB7TC to the internet uses 3G technology and it re-initializes occasionally.
 
 #### GPS TO APRS
@@ -97,103 +97,47 @@ RRS & Radio IDs:
 5058 = boat
 5059 = car
 
-Please see http://www.opendmr.net/index.php/anytone-d868uv-gps/ for set-up and configuration details.
+Please see [http://www.opendmr.net/index.php/anytone-d868uv-gps/](http://www.opendmr.net/index.php/anytone-d868uv-gps/) for set-up and configuration details.
 
 #### DV4MINI AND OTHER DONGLES
 
-The reflector groups linking is currently
+The reflector groups linking is currently as follows:
 
-Reflector
-NAME
-TG
-Slot
-4400 (UK Calling)
-TG235
-235
-1
-4401 (UK - Chat 1)
-TG80
-80
-1
-4402 (UK - Chat 2)
-TG81
-81
-1
-4403 (UK - Chat 3)
-TG82
-82
-1
-4404 (UK - Chat 4)
-TG83
-83
-1
-4405 (UK - Chat 5)
-TG84
-84
-1
-4409 (CQ-UK WIRES-X)
-CQUK
-2351
-1
-4410 (SW England)
-TG810
-810
-2
-4420 (NW England)
-TG820
-820
-2
-4430 (Midlands)
-TG830
-830
-2
-4440 (East England)
-TG840
-840
-2
-4441 (East England 1)
-TG841
-841
-2
-4442 (East England 2)
-TG842
-842
-2
-4450 (Scotland)
-TG850
-850
-2
-4460 (NE England)
-TG860
-860
-2
-4470 (Wales)
-TG870
-870
-2
-4480 (Norther Ireland)
-TG880
-880
-2
-4491 (SE England)
-TG801
-801
-2
+|Reflector|NAME|TG|Slot|
+|---|---|---|---|
+|4400 (UK Calling)|TG235|235|1|
+|4401 (UK - Chat 1)|TG80|80|1|
+|4402 (UK - Chat 2)|TG81|81|1|
+|4403 (UK - Chat 3)|TG82|82|1|
+|4404 (UK - Chat 4)|TG83|83|1|
+|4405 (UK - Chat 5)|TG84|84|1|
+|4409 (CQ-UK WIRES-X)|CQUK|2351|1|
+|4410 (SW England)|TG810|810|2|
+|4420 (NW England)|TG820|820|2|
+|4430 (Midlands)|TG830|830|2|
+|4440 (East England)|TG840|840|2|
+|4441 (East England 1)|TG841|841|2|
+|4442 (East England 2)|TG842|842|2|
+|4450 (Scotland)|TG850|850|2|
+|4460 (NE England)|TG860|860|2|
+|4470 (Wales)|TG870|870|2|
+|4480 (Norther Ireland)|TG880|880|2|
+|4491 (SE England)|TG801|801|2|
 
-If there is anything else that you would like explained, send me an e-mail g8vri@rrg.org.uk
+If there is anything else that you would like explained, send me an e-mail [g8vri@rrg.org.uk](mailto:g8vri@rrg.org.uk)
 
-Explanation  and full list of talk groups and time slots on GB7TC can be downloaded here
+Explanation and full list of talk groups and time slots on GB7TC can be downloaded here
 
-For further information and more detail see www.dmr-uk.net
+For further information and more detail see [www.dmr-uk.net](http://www.dmr-uk.net)
 
-TYT MD380
+#### TYT MD380
 The Tytera MD380 DMR/FM handportable has become popular with a lot of radio amateurs. The latest code plug with GB7TC included can be downloaded here md380-rt3-swindon.rdt
 At a cost of less than £80 it has proven to be a useful entry to DMR with good audio reproduction, easy programming, great battery life and a solid construction. The only downside seems to be the poor selectivity in the receiver front end. All in all a great starter radio.
 
-USING RF POWER AMPLIFIERS WITH DMR TRANSCIEVERS
+#### USING RF POWER AMPLIFIERS WITH DMR TRANSCIEVERS
 The general concensus is 'DON'T!' The switching speed and rise/fall time requirements for TDMA far outstrip the capabilities of most external RF (linear) Power Amplifiers. For more information see link: .Linear Amplifiers and DMR.pdf
 
-HYTERA MD785G
+#### HYTERA MD785G
 
 Hytera MD785G User Manual "note this is the full manual not the short version that comes with the Tranceiver" (please click the link below)
 https://www.dropbox.com/s/mgwkymxctdvqr87/Hytera%20MD785G%20User%20Manual.pdf?dl=0
