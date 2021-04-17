@@ -89,7 +89,8 @@ If you use the echo TG9990 and it fails to echo audio, then the link is down or 
 #### GPS TO APRS
 For those getting to grips with GPS to APRS. There are a few different private talk groups you can send the data to which produce different behaviour on APRS.
 
-RRS & Radio IDs:
+RRS & Radio IDs:  
+
 | | |
 |---|---|
 |5050|without SSID|
