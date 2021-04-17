@@ -25,7 +25,7 @@ TG260 is now available on slot 1 as a user activated group on all Phoenix UK rep
 
 All except TG9 are also linked through the Phoenix Internet based core links World Wide.
 
-| Slot | Talk Group | Name |
+|Slot|Talk Group| Name|
 |---|---|---|
 |1|TG1|World Wide Calling (Always Linked)|
 |1|TG2|Europe Calling (Always Linked)|
