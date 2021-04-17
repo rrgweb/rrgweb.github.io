@@ -38,96 +38,47 @@ All except TG9 are also linked through the Phoenix Internet based core links Wor
 |1|TG83|UK Wide - User Activated 4 (Optional)|
 |1|TG84|UK Wide - User Activated 5 (Optional)|
 |1|TG113|World Wide English - User Activated 1|
+|1|TG119|World Wide - User Activated 1|
+|1|TG123|World Wide English - User Activated 2|
+|1|TG129||World Wide - User Activated 2|
+|1|TG235|UK Wide Calling (Always Linked)|
+|1|TG2351|CQ-UK Wires-X Link (User Activated)|
+|1|TG2353|Link To Brandmeister (User Activated)|
+|1|TG260|Link To Polish National Talk Group (User Activated)|
+|1|TG6550|Link To Brandmeister TG655 (South Africa) (User Activated)|
+|2|TG9990|Echo Server|
 
+#### ROAMING TALK GROUPS
 
-
-1
-TG119
-World Wide - User Activated 1
-1
-TG123
-World Wide English - User Activated 2
-1
-TG129
-World Wide - User Activated 2
-1
-TG235
-UK Wide Calling (Always Linked)
-1
-TG2351
-CQ-UK Wires-X Link (User Activated)
-1
-TG2353
-Link To Brandmeister (User Activated)
-1
-TG260
-Link To Polish National Talk Group (User Activated)
-1
-TG6550
-Link To Brandmeister TG655 (South Africa) (User Activated)
-2
-TG9990
-Echo Server
-
-ROAMING TALK GROUPS
 Roaming TG are used to access the DMR repeaters in another region, for example, from GB7TC calling someone in Scotland.
 
-Slot
-Talk Group
-Name
-2
-801
-South East
-2
-810
-South West
-2
-820
-North West
-1
-821
-GB7FW , GB7LP
-1
-822
-GB7BR , GB7CA , GB7PN
-2
-830
-Midlands
-2
-840
-East England
-2
-841
-GB7AL, GB7CT, GB7DS , GB7FU GB7MK , GB7ND, GB7WS
-2
-842
-GB7CT, GB7EX, GB7FU GB7HA
-2
-844
-GB7FU, GB7IN, GB7RE, GB7SK
-2
-850
-Scotland
-2
-860
-North East
-2
-862
-GB7EL, GB7HS, GB7HX, GB7LE, GB7MR, GB7RV, GB7TD
-2
-870
-Wales
-2
-880
-Northern Ireland
+|Slot|Talk Group|Name|
+|---|---|---|
+|2|801|South East|
+|2|810|South West|
+|2|820|North West|
+|1|821|GB7FW , GB7LP|
+|1|822|GB7BR , GB7CA , GB7PN|
+|2|830|Midlands|
+|2|840|East England|
+|2|841|GB7AL, GB7CT, GB7DS , GB7FU GB7MK , GB7ND, GB7WS|
+|2|842|GB7CT, GB7EX, GB7FU GB7HA|
+|2|844|GB7FU, GB7IN, GB7RE, GB7SK|
+|2|850|Scotland|
+|2|860|North East|
+|2|862|GB7EL, GB7HS, GB7HX, GB7LE, GB7MR, GB7RV, GB7TD|
+|2|870|Wales|
+|2|880|Northern Ireland|
 
-MONITORING THE DMR NETWORK
-Local monitoring of GB7TC
+#### MONITORING THE DMR NETWORK
+
+##### Local monitoring of GB7TC
 This shows who is using GB7TC, by following links you can monitor an individual call sign or switch to other DMR repeaters.
 
 http://www.opendmr.net/monitor.php?filter=rpt&rptid=235250
-Monitoring the UK DMR network
-This show the status of the UK (and some Dutch) DMR repeaters, also the traffic on the links to Wires and Brandmeister networks.
+
+##### Monitoring the UK DMR network
+This shows the status of the UK (and some Dutch) DMR repeaters, also the traffic on the links to Wires and Brandmeister networks.
 
 http://phoenix-k.opendmr.net/ipsc/
 
@@ -135,7 +86,7 @@ I use it to monitor and also see who is active!
 Checking the internet link from GB7TC
 If you use the echo TG9990 and it fails to echo audio, then the link is down or there is a core issue. In most cases this will resolve within a few minutes as the link from GB7TC to the internet uses 3G technology and it re-initializes occasionally.
 
-GPS TO APRS
+#### GPS TO APRS
 For those getting to grips with GPS to APRS. There are a few different private talk groups you can send the data to which produce different behaviour on APRS.
 
 RRS & Radio IDs:
@@ -148,7 +99,7 @@ RRS & Radio IDs:
 
 Please see http://www.opendmr.net/index.php/anytone-d868uv-gps/ for set-up and configuration details.
 
-DV4MINI AND OTHER DONGLES
+#### DV4MINI AND OTHER DONGLES
 
 The reflector groups linking is currently
 
