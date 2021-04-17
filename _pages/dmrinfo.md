@@ -23,7 +23,7 @@ TG260 is now available on slot 1 as a user activated group on all Phoenix UK rep
   
 #### Summary of current Talk Groups available on GB7TC
 
-All except TG9 are also linked through the Phoenix Internet based core links World Wide.
+All except TG9 are also linked through the Phoenix Internet based core links World Wide.  
 
 |Slot|Talk Group| Name|
 |---|---|---|
@@ -38,6 +38,9 @@ All except TG9 are also linked through the Phoenix Internet based core links Wor
 |1|TG83|UK Wide - User Activated 4 (Optional)|
 |1|TG84|UK Wide - User Activated 5 (Optional)|
 |1|TG113|World Wide English - User Activated 1|
+
+
+
 1
 TG119
 World Wide - User Activated 1
