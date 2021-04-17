@@ -132,16 +132,15 @@ Explanation and full list of talk groups and time slots on GB7TC can be download
 For further information and more detail see [www.dmr-uk.net](http://www.dmr-uk.net)
 
 #### TYT MD380
-The Tytera MD380 DMR/FM handportable has become popular with a lot of radio amateurs. The latest code plug with GB7TC included can be downloaded here md380-rt3-swindon.rdt
+The Tytera MD380 DMR/FM handportable has become popular with a lot of radio amateurs. The latest code plug with GB7TC included can be downloaded here [md380-rt3-swindon.rdt]({{ site.url }}/assets/codeplugs/md380-rt3-swindon.rdt)
+
 At a cost of less than £80 it has proven to be a useful entry to DMR with good audio reproduction, easy programming, great battery life and a solid construction. The only downside seems to be the poor selectivity in the receiver front end. All in all a great starter radio.
 
 #### USING RF POWER AMPLIFIERS WITH DMR TRANSCIEVERS
-The general concensus is 'DON'T!' The switching speed and rise/fall time requirements for TDMA far outstrip the capabilities of most external RF (linear) Power Amplifiers. For more information see link: .Linear Amplifiers and DMR.pdf
+The general concensus is 'DON'T!' The switching speed and rise/fall time requirements for TDMA far outstrip the capabilities of most external RF (linear) Power Amplifiers. 
 
 #### HYTERA MD785G
 
-Hytera MD785G User Manual "note this is the full manual not the short version that comes with the Tranceiver" (please click the link below)
-https://www.dropbox.com/s/mgwkymxctdvqr87/Hytera%20MD785G%20User%20Manual.pdf?dl=0
+[Hytera MD785G User Manual]({{ site.url }}/assets/pdf/Hytera_MD785G_UM.pdf) "note this is the full manual not the short version that comes with the Tranceiver"
 
-Hytera MD785G  "Guide to the codeplug & programming" (click the link below to view)
-https://www.dropbox.com/s/ygjgornkntny3pi/Hytera%20DMR%20CPS%20Guide%201.pdf?dl=0
+[Hytera MD785G CPS Guide]({{ site.url }}/assets/pdf/Hytera_DMR_CPS_Guide_1.pdf)  "Guide to the codeplug & programming"
