@@ -1,6 +1,12 @@
+---
+permalink: /dmrinfo/
+title: "GB7TC Current DMR Information"
 
+sidebar:
+   - title: "  "
+     image: http://rrgweb.github.io/assets/images/gb3td.jpg
+---
 
-#### GB7TC Current DMR Information
 Changes to DMR in the last few months have included Talk Groups (TG) to link with other Amateur Radio Digital Modes.
 
 #### New Talk Groups
