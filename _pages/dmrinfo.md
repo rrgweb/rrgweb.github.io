@@ -90,14 +90,14 @@ If you use the echo TG9990 and it fails to echo audio, then the link is down or 
 For those getting to grips with GPS to APRS. There are a few different private talk groups you can send the data to which produce different behaviour on APRS.
 
 RRS & Radio IDs:
-5050 = without SSID
-5055 = House QTH
-5056 = Camping
-5057 = walking with handheld radio
-5058 = boat
-5059 = car
-
-Please see [http://www.opendmr.net/index.php/anytone-d868uv-gps/](http://www.opendmr.net/index.php/anytone-d868uv-gps/) for set-up and configuration details.
+| | |
+|---|---|
+|5050|without SSID|
+|5055|House QTH|
+|5056|Camping|
+|5057|Walking with handheld radio|
+|5058|Boat|
+|5059|Car|
 
 #### DV4MINI AND OTHER DONGLES
 
