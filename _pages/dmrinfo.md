@@ -2,12 +2,7 @@
 permalink: /dmrinfo/
 title: "GB7TC Current DMR Information"
 
-sidebar:
-   - title: "  "
-     image: http://rrgweb.github.io/assets/images/gb3td.jpg
-     
 classes: wide
-
 ---
 
 Changes to DMR in the last few months have included Talk Groups (TG) to link with other Amateur Radio Digital Modes.
@@ -20,7 +15,7 @@ This is user activated, much more information from [http://www.cq-uk.com/](http:
 
 TG2353 LINK TO BRANDMEISTER TG2353 - USER ACTIVATED
 
-This is user activated, introduction and more information from [https://wiki.brandmeister.network/index.php](https://wiki.brandmeister.network/index.php)
+This is user activated, introduction and more information from [https://wiki.brandmeister.network/index.php/What_is_BrandMeister](https://wiki.brandmeister.network/index.php/What_is_BrandMeister)
 
 TG260  USER ACTIVATED LINK TO POLISH NATIONAL TALKGROUP
 
@@ -31,7 +26,7 @@ TG260 is now available on slot 1 as a user activated group on all Phoenix UK rep
 All except TG9 are also linked through the Phoenix Internet based core links World Wide.
 
 | Slot | Talk Group | Name |
-|------|------------|------|
+|---|---|---|
 |1|TG1|World Wide Calling (Always Linked)|
 |1|TG2|Europe Calling (Always Linked)|
 |1|TG9|Local (Secondary)|
