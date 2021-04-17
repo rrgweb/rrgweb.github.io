@@ -40,7 +40,7 @@ All except TG9 are also linked through the Phoenix Internet based core links Wor
 |1|TG113|World Wide English - User Activated 1|
 |1|TG119|World Wide - User Activated 1|
 |1|TG123|World Wide English - User Activated 2|
-|1|TG129||World Wide - User Activated 2|
+|1|TG129|World Wide - User Activated 2|
 |1|TG235|UK Wide Calling (Always Linked)|
 |1|TG2351|CQ-UK Wires-X Link (User Activated)|
 |1|TG2353|Link To Brandmeister (User Activated)|
