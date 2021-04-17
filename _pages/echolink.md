@@ -1,7 +1,11 @@
+---
+permalink: /echolink/
+title: "Echolink Information"
+classes: wide
+---
 
 
-
-Echolink allows repeaters to be connected to each other through the Internet, or for users connected to the internet to connect directly to repeaters. You need to be a radio amateur to use Echolink, but once you are set up on the system at www.echolink.org  you can connect to repeaters and conferences from your computer or even your smartphone (iPhones or Android devices).
+Echolink allows repeaters to be connected to each other through the Internet, or for users connected to the internet to connect directly to repeaters. You need to be a radio amateur to use Echolink, but once you are set up on the system at [www.echolink.org](http://www.echolink.org) you can connect to repeaters and conferences from your computer or even your smartphone (iPhones or Android devices).
  
 #### Download Echolink software
 
