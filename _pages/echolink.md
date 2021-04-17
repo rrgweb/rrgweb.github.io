@@ -19,9 +19,10 @@ For Android: Search for 'Echolink' in the Android Market or scan the QR code bel
 
 Our UHF voice repeater, GB3TD, is available via Echolink.  
 
-When it is online, you can connect to TD from an Echolink connected PC or smartphone by entering 43307 (node number) or by searching for GB3TD in the station list.
-By default Echolink is disabled – if you are a radio user and need to make a connection you need to enable it with the DTMF 2# command. The response from the system will be the voice announcement “Echolink activated”.  The Echolink module will automatically timeout after 20 minutes of inactivity.
-To connect to another station, just send the node number ended with a hash (#). To disconnect the last connected station, send just the hash sign. To exit the module, send a hash when not connected.
+When it is online, you can connect to TD from an Echolink connected PC or smartphone by entering 43307 (node number) or by searching for GB3TD in the station list.\
+By default Echolink is disabled – if you are a radio user and need to make a connection you need to enable it with the DTMF 2# command. The response from the system will be the voice announcement “Echolink activated”.\
+The Echolink module will automatically timeout after 20 minutes of inactivity.\
+To connect to another station, just send the node number ended with a hash (#). To disconnect the last connected station, send just the hash sign. To exit the module, send a hash when not connected.  
 
 ##### Sub-commands
 
@@ -43,7 +44,7 @@ Commands may also be executed even if the Echolink module is not currently activ
 
 ##### Connect by callsign
 
-The "connect by callsign" feature makes it possible to connect to a station even if the node number is unknown. Callsigns are mapped to digits by using the following method: ABC=2, DEF=3, GHI=4, JKL=5, MNO=6, PQRS=7, TUV=8, WXYZ=9. That is the same mapping as on many phones. Letters are mapped to its corresponding digit and digits are of course mapped to their corresponding number. All other characters are mapped to digit 1.
+The **connect by callsign** feature makes it possible to connect to a station even if the node number is unknown. Callsigns are mapped to digits by using the following method: ABC=2, DEF=3, GHI=4, JKL=5, MNO=6, PQRS=7, TUV=8, WXYZ=9. That is the same mapping as on many phone keypads. Letters are mapped to its corresponding digit and digits are of course mapped to their corresponding number. All other characters are mapped to digit 1.
 
 **A few important things to remember:-**
 
