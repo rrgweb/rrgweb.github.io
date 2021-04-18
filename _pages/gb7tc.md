@@ -18,7 +18,7 @@ sidebar:
 |Colour Code|2|
 |Channel|DVU42|
 |Talk Groups|	Timeslot 1: World-wide, Wide Area & User Activated Talkgroups
-||Timeslot 2: Local and Regional Talkgroups (see here for full list)|
+||Timeslot 2: Local and Regional Talkgroups [see here for full list]({{ site.url }}/dmrinfo/)|
 |Radio Equipment|Motorola SLR5500 - Installed & Operational - IP Connect via 3G router|
 |Cavity Filters|	Motorola Duplexer with circulator, admiralty notch filters & bandpass filters|
 |Antenna|Stacked dipole Omnidirectional - single aerial working (aerial at approx. 910ft ASL)|
