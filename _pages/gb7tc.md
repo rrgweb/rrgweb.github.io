@@ -4,7 +4,7 @@ title: "GB7TC UHF DMR Repeater"
 
 sidebar:
    - title: "  "
-     image: http://rrgweb.github.io/assets/images/gb3td.jpg
+     image: http://rrgweb.github.io/assets/images/gb3td_mast.jpg
    - title: "  "
      image: http://rrgweb.github.io/assets/images/gb7tc_rack.jpg
 ---
