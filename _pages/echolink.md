@@ -18,7 +18,7 @@ Echolink allows repeaters to be connected to each other through the Internet, or
 
 For PC: [Download](http://www.echolink.org/register_data.jsp)\
 For iPhone/iPad: [Download](https://itunes.apple.com/gb/app/echolink/id350688562?mt=8)\
-For Android: Search for 'Echolink' in the Android Market or scan the QR code below:  
+For Android: Search for 'Echolink' in the Google Play store or scan the QR code below:  
 
 !["Echolink QR Code"]({{ site.url }}{{ site.baseurl }}/assets/images/echolink_qr_code.jpg)
 
