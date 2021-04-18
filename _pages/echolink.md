@@ -24,7 +24,7 @@ For Android: Search for 'Echolink' in the Android Market or scan the QR code bel
 
 #### Using Echolink on GB3TD
 
-Our UHF voice repeater, GB3TD, is available via Echolink.  
+Our UHF voice repeater, GB3TD, is available via Echolink using SVXLINK which is running on a Raspberry Pi 3.  
 
 When it is online, you can connect to TD from an Echolink connected PC or smartphone by entering 43307 (node number) or by searching for GB3TD in the station list.\
 By default Echolink is disabled – if you are a radio user and need to make a connection you need to enable it with the DTMF 2# command. The response from the system will be the voice announcement “Echolink activated”.\
