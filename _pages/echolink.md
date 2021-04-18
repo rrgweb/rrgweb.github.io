@@ -1,6 +1,13 @@
 ---
 permalink: /echolink/
 title: "Echolink Information"
+
+sidebar:
+   - title: "  "
+     image: http://rrgweb.github.io/assets/images/gb3td_mast.jpg
+   - title: "  "
+     image: http://rrgweb.github.io/assets/images/echolink_pi.jpg
+     
 classes: wide
 ---
 
