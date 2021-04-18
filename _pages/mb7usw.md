@@ -4,6 +4,8 @@ title: "MB7USW 144MHz APRS Digipeater"
 
 sidebar:
    - title: "  "
+     image: http://rrgweb.github.io/assets/images/gb3td.jpg
+   - title: "  "
      image: http://rrgweb.github.io/assets/images/mb7usw.jpg
      
 classes: wide
