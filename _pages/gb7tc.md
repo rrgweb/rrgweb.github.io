@@ -28,5 +28,6 @@ sidebar:
 
 #### Live Monitoring
 
-[Link to Phoenix website](http://www.opendmr.net)\
+[Link to Phoenix website](http://www.opendmr.net)  
+
 
