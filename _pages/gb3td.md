@@ -29,4 +29,4 @@ sidebar:
 
 GB3TD is a simple repeater to use, however, if you would like to read about the ins and outs of the logic, you may do so in the [User Guide]({{ site.url }}/assets/pdf/GB3TD_userguide.pdf)
 
-For the latest instructions on using Echolink on GB3TD please see the Echolink page.
+For the latest instructions on using Echolink on GB3TD please see the [Echolink page.]({{ site.url }}/echolink/)
