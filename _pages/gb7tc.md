@@ -28,8 +28,5 @@ sidebar:
 
 #### Live Monitoring
 
-You can view the activity and [monitor your signal strength here](http://www.opendmr.net/monitor.php?filter=rpt&rptid=235250)\
 [Link to Phoenix website](http://www.opendmr.net)\
-PHOENIX DMR [Live Monitor GB7TC](http://www.opendmr.net/monitor.php?filter=rpt&rptid=235250)   
-
 
