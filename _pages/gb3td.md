@@ -5,6 +5,8 @@ title: "GB3TD 433MHz Analogue Voice Repeater"
 sidebar:
    - title: "  "
      image: http://rrgweb.github.io/assets/images/gb3td_mast.jpg
+   - title: "  "
+     image: http://rrgweb.github.io/assets/images/gb7td_rack.jpg
 ---
 
 |**Callsign**|**GB3TD**|
