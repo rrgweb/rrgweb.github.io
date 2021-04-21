@@ -64,30 +64,32 @@ Roaming TG are used to access the DMR repeaters in another region, for example, 
 |2|801|South East|
 |2|810|South West|
 |2|820|North West|
-|1|821|GB7FW , GB7LP|
-|1|822|GB7BR , GB7CA , GB7PN|
 |2|830|Midlands|
 |2|840|East England|
-|2|841|GB7AL, GB7CT, GB7DS , GB7FU GB7MK , GB7ND, GB7WS|
-|2|842|GB7CT, GB7EX, GB7FU GB7HA|
-|2|844|GB7FU, GB7IN, GB7RE, GB7SK|
 |2|850|Scotland|
 |2|860|North East|
-|2|862|GB7EL, GB7HS, GB7HX, GB7LE, GB7MR, GB7RV, GB7TD|
 |2|870|Wales|
 |2|880|Northern Ireland|
+
+Latest info [http://www.dmr-uk.net/index.php/regional/](http://www.dmr-uk.net/index.php/regional/)
 
 #### MONITORING THE DMR NETWORK
 
 ##### Local monitoring of GB7TC
 This shows who is using GB7TC, by following links you can monitor an individual call sign or switch to other DMR repeaters.
 
-[http://www.opendmr.net/monitor.php?filter=rpt&rptid=235250](http://www.opendmr.net/monitor.php?filter=rpt&rptid=235250)
+[http://www.dmr-uk.net/monitor.php?filter=rpt&rptid=235250](http://www.dmr-uk.net/monitor.php?filter=rpt&rptid=235250)
 
 ##### Monitoring the UK DMR network
 This shows the status of the UK (and some Dutch) DMR repeaters, also the traffic on the links to Wires and Brandmeister networks.
 
 [http://phoenix-k.opendmr.net/ipsc/](http://phoenix-k.opendmr.net/ipsc/)
+[http://phoenix-e.opendmr.net/ipsc/](http://phoenix-e.opendmr.net/ipsc/)
+
+##### Monitoring the UK Hotspots
+
+http://phoenix-f.opendmr.net/ipsc/
+
 
 ##### Checking the internet link from GB7TC
 
@@ -127,8 +129,10 @@ The reflector groups linking is currently as follows:
 |4450 (Scotland)|TG850|850|2|
 |4460 (NE England)|TG860|860|2|
 |4470 (Wales)|TG870|870|2|
-|4480 (Norther Ireland)|TG880|880|2|
+|4480 (Northern Ireland)|TG880|880|2|
 |4491 (SE England)|TG801|801|2|
+
+For the latest info http://www.dmr-uk.net/index.php/layout/
 
 If there is anything else that you would like explained, send me an e-mail [g8vri@rrg.org.uk](mailto:g8vri@rrg.org.uk)
 
