@@ -88,7 +88,7 @@ This shows the status of the UK (and some Dutch) DMR repeaters, also the traffic
 
 ##### Monitoring the UK Hotspots
 
-http://phoenix-f.opendmr.net/ipsc/
+[http://phoenix-f.opendmr.net/ipsc/](http://phoenix-f.opendmr.net/ipsc/)  
 
 
 ##### Checking the internet link from GB7TC
