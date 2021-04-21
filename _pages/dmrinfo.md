@@ -132,7 +132,7 @@ The reflector groups linking is currently as follows:
 |4480 (Northern Ireland)|TG880|880|2|
 |4491 (SE England)|TG801|801|2|
 
-For the latest info http://www.dmr-uk.net/index.php/layout/
+For the latest info [http://www.dmr-uk.net/index.php/layout/](http://www.dmr-uk.net/index.php/layout/)
 
 If there is anything else that you would like explained, send me an e-mail [g8vri@rrg.org.uk](mailto:g8vri@rrg.org.uk)
 
