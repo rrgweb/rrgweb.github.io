@@ -93,10 +93,12 @@ This shows the status of the UK (and some Dutch) DMR repeaters, also the traffic
 
 ##### Checking the internet link from GB7TC
 
-If you use the echo TG9990 and it fails to echo audio, then the link is down or there is a core issue. In most cases this will resolve within a few minutes as the link from GB7TC to the internet uses 3G technology and it re-initializes occasionally.
+If you use the echo TG9990 and it fails to echo audio, then the link is down or there is a core issue. In most cases this will resolve within a few minutes as the link from GB7TC to the internet uses 4G technology and it re-initializes occasionally.
 
 #### GPS TO APRS
 For those getting to grips with GPS to APRS. There are a few different private talk groups you can send the data to which produce different behaviour on APRS.  
+
+[http://www.dmr-uk.net/index.php/aprs-to-gps/](http://www.dmr-uk.net/index.php/aprs-to-gps/)  
 
 |RRS & Radio IDs| |
 |---|---|
