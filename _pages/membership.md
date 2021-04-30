@@ -31,6 +31,7 @@ sidebar:
   - text: G8VGQ
   - text: G8VRI
   - text: G8VVY
+  - text: M0KYB
   - text: M0MPL
   - text: M0MTA
   - text: M0RFI
