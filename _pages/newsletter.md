@@ -10,7 +10,9 @@ toc_sticky: true
 The group publishes an occasional newsletter, distributed to members by email. An archive of these newsletters is provided below
 
 #### 2021
-[Quarter 1 2021]({{ site.url }}/assets/pdf/2021_q1_newsletter.pdf)  
+[Quarter 1 2021]({{ site.url }}/assets/pdf/2021_q1_newsletter.pdf)\
+[Quarter 2 2021]({{ site.url }}/assets/pdf/2021_q2_newsletter.pdf)  
+
 
 #### 2020
 [Quarter 4 2020]({{ site.url }}/assets/pdf/2020_q4_newsletter.pdf)\
