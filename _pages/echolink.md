@@ -31,6 +31,8 @@ By default Echolink is disabled – if you are a radio user and need to make a c
 The Echolink module will automatically timeout after 20 minutes of inactivity.\
 To connect to another station, just send the node number ended with a hash (#). To disconnect the last connected station, send just the hash sign. To exit the module, send a hash when not connected.  
 
+[Echolink Status Page](http://www.echolink.org/links.jsp?sel=gridsq&gs=IO91dl&city=&state=&country=UK) GB3TD's current status should show at the top of the list on the status page.
+
 ##### Sub-commands
 
 There are a number of sub-commands that can be used once Echolink has been activated.
