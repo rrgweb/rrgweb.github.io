@@ -55,7 +55,7 @@ Please join us or donate to keep your repeaters running - we can accept payments
 Our account details for direct bank transfer are as follows:
 
 Sort Code: 30-98-41  
-Account No: 2650917  
+Account No: 02650917  
 Account Name: Ridgeway Repeater Group  
 Payment Reference: "Your Callsign - Year" e.g "G0UWS - 2021"  
 
