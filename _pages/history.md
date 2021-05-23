@@ -42,7 +42,7 @@ In October 2019, TD changed frequency to a wide split reverse RU67 7.6 Mhz split
 
 Due to this, the RRG offered to revert back to RB3 on the 30th October 2019 pending further consultation with the ETCC.
 
-### GB3TC
+### GB7TC
 
 GB7TC is a DMR (Digital) repeater which came on the air in October 2015.  It is co-sited with GB3TD and uses the same antenna system as the analogue repeater. Initially connected to the Southwest Cluster, it currently operates on the CC3.net Worldwide and Regional DMR network.
 
