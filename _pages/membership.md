@@ -4,7 +4,15 @@ title: "Membership"
 classes: wide
 
 sidebar:
-  - title: "Current Members (2020-2021)"
+  - title: "Members (2021-2022)"
+  - text: "2E0OQV"
+  - text: "G0BEQ"
+  - text: "G0UWS"
+  - text: "G1OQV"
+  - text: "G4LDL"
+  - text: "G4XUT"
+  - 
+  - title: "Members (2020-2021)"
   - text: 2E0CYS
   - text: 2E0LUF
   - text: 2E0WHQ
