@@ -65,7 +65,7 @@ Our account details for direct bank transfer are as follows:
 Sort Code: 30-98-41  
 Account No: 02650917  
 Account Name: Ridgeway Repeater Group  
-Payment Reference: "Your Callsign - Year" e.g "G0UWS - 2021"  
+Payment Reference: "Your Callsign - Year" e.g "G0UWS - 2022"  
 
 Please also email [accounts@rrg.org.uk](mailto:accounts@rrg.org.uk) advising a payment has been made.
 
