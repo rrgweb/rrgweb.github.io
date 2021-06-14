@@ -58,11 +58,11 @@ sidebar:
 
 Membership costs a modest £15 per year and runs from our Annual General Meeting in May for 12 months. You are of course welcome to join the group at any time during the year. Some members are kind enough to make donations on top the of the basic membership fee to help cover the costs of running the repeaters.
 
-Some of the costs we need to cover are Site Rent - around £500 per year, Insurance around £100 a year as well as Maintenance costs, perhaps around £40 per year. All of these costs are incurred just to stand still, as opposed to new developments, repeaters etc. With the size of the group as it is, we only just cover the costs of keeping the repeaters on the air.
+Some of the costs we need to cover are Site Rent - around £500 per year, insurance around £100 a year as well as maintenance costs, perhaps around £40 per year. All of these costs are incurred just to stand still, as opposed to new developments, repeaters etc. With the size of the group as it is, we only just cover the costs of keeping the repeaters on the air.
 
-If you use the repeater, *Please consider joining the group or even a one-off donation. We really appreciate it!*
+If you use the repeater - *Please consider joining the group or even a one-off donation. We really appreciate it!*
 
-Wwe can accept payments by the methods below:
+We can accept payments by the methods below:
 
 ##### Direct bank transfer 
 
