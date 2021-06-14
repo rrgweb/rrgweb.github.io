@@ -21,3 +21,5 @@ main:
     url: /history/
   - title: "Committee"
     url: /about/
+  - title: "Associate Sites"
+    url: /associate/
