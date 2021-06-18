@@ -6,11 +6,14 @@ classes: wide
 sidebar:
   - title: "Members (2021-2022)"
   - text: "2E0OQV"
-  - text: "G0BEQ"
+  - text: "G0HCO"
   - text: "G0UWS"
   - text: "G1OQV"
+  - text: "G4GUN"
   - text: "G4LDL"
   - text: "G4XUT"
+  - text: "G8VRI"
+  - text: "M0KYB"
   - 
   - title: "Members (2020-2021)"
   - text: 2E0CYS
