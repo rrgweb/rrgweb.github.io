@@ -13,7 +13,7 @@ The group publishes an occasional newsletter, distributed to members by email. A
 [Quarter 1 2021]({{ site.url }}/assets/pdf/2021_q1_newsletter.pdf)\
 [Quarter 2 2021]({{ site.url }}/assets/pdf/2021_q2_newsletter.pdf)\
 [Quarter 3 2021]({{ site.url }}/assets/pdf/2021_q3_newsletter.pdf)\
-[Quarter 4 2021]({{ site.url }}/assets/pdf/2021_q2_newsletter.pdf)
+[Quarter 4 2021]({{ site.url }}/assets/pdf/2021_q4_newsletter.pdf)
 
 #### 2020
 [Quarter 4 2020]({{ site.url }}/assets/pdf/2020_q4_newsletter.pdf)\
