@@ -19,4 +19,4 @@ TX Yaesu FT-8900 running 5 watts into 2 x 5/8 co-linear at 10ft AGL
 
 Raspberry Pi2 running [Direwolf by WB2OSZ](https://github.com/wb2osz/direwolf)
 
-You can see MB7USW on the [aprs.fi website](http://aprs.fi/#!call=a%2FMB7USW&timerange=3600&tail=3600)
+You can see MB7UR on the [aprs.fi website](http://aprs.fi/#!call=a%2FMB7USW&timerange=3600&tail=3600)
