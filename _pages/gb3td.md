@@ -12,13 +12,13 @@ sidebar:
 |**Callsign**|**GB3TD**|
 |---|---|
 |**Band**|70cms UHF|
-|**Frequency	Input**| 434.675MHz|
-|**Output**| 433.075MHz|
-|**Channel**|	RB3|
+|**Frequency	Input**| 430.7875MHz|
+|**Output**| 438.3875MHz|
+|**Channel**|	UR63|
 |**Tone Access**|	118.8Hz CTCSS (J)|
 |**Radio Equipment**| Motorola GM340 x 2|
 |**Logic Control System**|G8CUL Logic|
-|**Cavity Filters**|Motorola Duplexer & Combiner with GB7TC|
+|**Cavity Filters**|Combiner Hybrid system with GB7TC|
 |**Antenna**|Stacked dipole Omnidirectional / Single aerial working|
 |**Location**|9km Southeast of Swindon, Wiltshire|
 |**Locator**|	IO91DL|
