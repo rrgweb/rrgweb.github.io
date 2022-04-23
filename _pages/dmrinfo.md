@@ -18,11 +18,7 @@ Changes to DMR in the last few months have included Talk Groups (TG) to link wit
 
 TG2351 YSF CQ-UK WIRES-X LINK (USER ACTIVATED)
 
-This is user activated, much more information from [http://www.cq-uk.com/](http://www.cq-uk.com/)
-
 TG2353 LINK TO BRANDMEISTER TG2353 - USER ACTIVATED
-
-This is user activated, introduction and more information from [https://wiki.brandmeister.network/index.php/What_is_BrandMeister](https://wiki.brandmeister.network/index.php/What_is_BrandMeister)
 
 TG260  USER ACTIVATED LINK TO POLISH NATIONAL TALKGROUP
 
