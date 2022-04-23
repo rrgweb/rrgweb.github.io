@@ -1,6 +1,6 @@
 ---
 permalink: /gb3wh/
-title: "GB3WH 145MHz Analogue Voice Repeater"
+title: "GB3WH 2m Analogue Voice Repeater"
 
 sidebar:
    - title: "  "
