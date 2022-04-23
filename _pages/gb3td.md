@@ -1,6 +1,6 @@
 ---
 permalink: /gb3td/
-title: "GB3TD 433MHz Analogue Voice Repeater"
+title: "GB3TD 70cms Analogue Voice Repeater"
 
 sidebar:
    - title: "  "
