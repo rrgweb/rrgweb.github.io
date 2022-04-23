@@ -11,7 +11,7 @@ The group publishes an occasional newsletter, distributed to members by email. A
 
 
 #### 2022
-[Quarter 1 2022]({{ site.url }}/assets/pdf/2022_q1_newsletter.pdf)\
+[Quarter 1 2022]({{ site.url }}/assets/pdf/2022_q1_newsletter.pdf)
 
 #### 2021
 [Quarter 1 2021]({{ site.url }}/assets/pdf/2021_q1_newsletter.pdf)\
