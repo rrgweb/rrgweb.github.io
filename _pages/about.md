@@ -26,7 +26,7 @@ Committee member: Andy M1EFY [m1efy.radio@gmail.com](mailto:m1efy.radio@gmail.co
 GB3WH repeater keeper: Tony G4LDL [g4ldl@rrg.org.uk](mailto:g4ldl@rrg.org.uk)\
 GB3TD repeater keeper: Rob G4XUT [g4xut@rrg.org.uk](mailto:g4xut@rrg.org.uk)\
 GB7TC repeater keeper: Nigel G8VRI [g8vri@rrg.org.uk](mailto:g8vri@rrg.org.uk)\
-MB7USW keeper: Andy G0UWS [g0uws@rrg.org.uk](mailto:g0uws@rrg.org.uk)  
+MB7UR keeper: Andy G0UWS [g0uws@rrg.org.uk](mailto:g0uws@rrg.org.uk)  
 
 Website maintenance: Andy M1EFY  [m1efy.radio@gmail.com](mailto:m1efy.radio@gmail.com)  
 
