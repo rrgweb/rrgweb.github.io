@@ -151,3 +151,6 @@ The general concensus is 'DON'T!' The switching speed and rise/fall time require
 [Hytera MD785G User Manual]({{ site.url }}/assets/pdf/Hytera_MD785G_UM.pdf) "note this is the full manual not the short version that comes with the Tranceiver"
 
 [Hytera MD785G CPS Guide]({{ site.url }}/assets/pdf/Hytera_DMR_CPS_Guide_1.pdf)  "Guide to the codeplug & programming"
+
+
+> Note: Ridgeway Repeater Group are not responsible for the content of external sites.
