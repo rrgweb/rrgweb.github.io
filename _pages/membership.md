@@ -6,9 +6,9 @@ classes: wide
 sidebar:
   - title: "Members (2021-2022)"
     children:
-      - text: "2E0CYS" 
-      - text: "2E0GGU" 
-      - text: "2E0OQV"
+      - title: "2E0CYS" 
+      - title: "2E0GGU" 
+      - title: "2E0OQV"
   - text: "2E0YCC" 
   - text: "2E0YGM"
   - text: "G0BEQ"
