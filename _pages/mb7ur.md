@@ -15,7 +15,7 @@ classes: wide
 
 Now known as its original callsign MB7UR - MB7USW was licensed on 22nd May 2019, as a APRS digirepeater, similar to MB7UR but also as a receive only i-gate, this required a NOV replacement and the new callsign was required.
 
-TX Yaesu FT-8900 running 5 watts into two $^5/_8$ co-linear at 10ft AGL
+TX Yaesu FT-8900 running 5 watts into two $$^5/_8$$ co-linear at 10ft AGL
 
 Raspberry Pi2 running [Direwolf by WB2OSZ](https://github.com/wb2osz/direwolf)
 
