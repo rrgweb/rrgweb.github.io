@@ -10,4 +10,4 @@ The following sites may be of interest to members:
 
 [UK Repeater Information](https://ukrepeater.net/index.html)
 
-[Repeater Builders' Website] (http://www.repeater-builder.com/rbtip)
+[Repeater Builders' Website](http://www.repeater-builder.com/rbtip)
