@@ -49,9 +49,9 @@ GB7TC is a DMR (Digital) repeater which came on the air in October 2015.  It is 
 The repeater uses a modern Motorola base station and has battery backup.
 
 
-### MB7USW
+### MB7UR
 
-MB7USW is a VHF APRS digi located at the same site as GB3TD/TC.  It began operation in 2007 on a frequency of 144.800Mhz.
+MB7UR is a VHF APRS digi located at the same site as GB3TD/TC.  It began operation in 2007 on a frequency of 144.800Mhz.
 
 In 2016 the repeater was also connected to I-gate via an internet connection.
 
