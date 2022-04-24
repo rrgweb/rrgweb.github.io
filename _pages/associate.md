@@ -11,3 +11,6 @@ The following sites may be of interest to members:
 [UK Repeater Information](https://ukrepeater.net/index.html)
 
 [Repeater Builders' Website](http://www.repeater-builder.com/rbtip)
+
+
+> Note: Ridgeway Repeater Group are not responsible for the content of external sites.
