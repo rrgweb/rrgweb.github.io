@@ -16,6 +16,7 @@ sidebar:
   - text: "G0HCO"
   - text: "G0TDY"
   - text: "G0UWS"
+  - text: "G0UWU"
   - text: "G1NCG"
   - text: "G1OQV"
   - text: "G3MNJ"
