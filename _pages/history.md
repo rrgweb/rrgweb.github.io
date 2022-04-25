@@ -42,6 +42,8 @@ In October 2019, TD changed frequency to a wide split reverse RU67 7.6 Mhz split
 
 Due to this, the RRG offered to revert back to RB3 on the 30th October 2019 pending further consultation with the ETCC.
 
+After a period of consultation with the ETCC, a new channel of UR63 was obtained and GB3TD changed frequency to a wide split -7.6Mhz Tx 438.3875Mhz and Rx 430.7875Mhz on the 20th February 2022.
+
 ### GB7TC
 
 GB7TC is a DMR (Digital) repeater which came on the air in October 2015.  It is co-sited with GB3TD and uses the same antenna system as the analogue repeater. Initially connected to the Southwest Cluster, it currently operates on the CC3.net Worldwide and Regional DMR network.
@@ -66,6 +68,8 @@ GB7NW was previously operated by G8HBE from his home in Chiseldon until a house 
 The node provided good links to the Forest of Dean and Salisbury together with local end user links on VHF and UHF.
 
 In July 2014, the packet nodes were formally handed over to a third party and are now no longer the responsibility of the RRG and now closed down.
+
+In March 2021, the callsign was re-allocated to a C4FM Fusion repeater for the Swindon area operated and maintained by Dave, G4XIB.  The Tx of GB7NW is 439.725 Mhz and the is Rx 430.725Mhz.
 
  
 
