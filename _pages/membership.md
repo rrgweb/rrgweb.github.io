@@ -73,3 +73,4 @@ To pay using Paypal please click the "Donate" button below:
 
 [![Donate](https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8W6FF5Z7H99UL)
 
+Note: If the PayPal button above does not work - try right clicking it and selecting "Open in new tab"
