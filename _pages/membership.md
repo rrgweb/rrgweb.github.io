@@ -5,10 +5,17 @@ classes: wide
 
 sidebar:
   - title: "Members (2022-2023)"
+  - text: "2E0OQV"
   - text: "2E0UDP"
   - text: "2E0YGM"
+  - text: "G0BEQ"
+  - text: "G0BQK"
+  - text: "G0UWU"
+  - text: "G1OQV"
   - text: "G4XIB"
+  - text: "G4XUT"
   - text: "G8VVY"
+  - text: "M0LUF"
   - title: "Members (2021-2022)"
   - text: "2E0CYS" 
   - text: "2E0GGU" 
