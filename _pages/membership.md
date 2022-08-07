@@ -22,6 +22,7 @@ sidebar:
   - text: "G8VRI"
   - text: "G8VVY"
   - text: "M0LUF"
+  - text: "M1EFY"
   - title: "Members (2021-2022)"
   - text: "2E0CYS" 
   - text: "2E0GGU" 
