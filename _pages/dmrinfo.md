@@ -67,8 +67,6 @@ Roaming TG are used to access the DMR repeaters in another region, for example, 
 |2|870|Wales|
 |2|880|Northern Ireland|
 
-Latest info [http://www.dmr-uk.net/index.php/regional/](http://www.dmr-uk.net/index.php/regional/)
-
 #### MONITORING THE DMR NETWORK
 
 ##### Local monitoring of GB7TC
@@ -80,7 +78,6 @@ This shows who is using GB7TC, by following links you can monitor an individual 
 This shows the status of the UK (and some Dutch) DMR repeaters, also the traffic on the links to Wires and Brandmeister networks.
 
 [http://phoenix-k.opendmr.net/ipsc/](http://phoenix-k.opendmr.net/ipsc/)\
-[http://phoenix-e.opendmr.net/ipsc/](http://phoenix-e.opendmr.net/ipsc/)
 
 ##### Monitoring the UK Hotspots
 
