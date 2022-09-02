@@ -26,8 +26,5 @@ sidebar:
 |Locator|IO91DL|
 |Repeater Keeper|Nigel G8VRI|
 
-#### Live Monitoring
-
-[Link to Phoenix website](http://www.opendmr.net)  
 
 
