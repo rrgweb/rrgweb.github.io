@@ -15,6 +15,7 @@ sidebar:
   - text: "G0UWU"
   - text: "G1OQV"
   - text: "G3MNJ"
+  - text: "G4AJA"
   - text: "G4GUN"
   - text: "G4LDL"
   - text: "G4WQG"
