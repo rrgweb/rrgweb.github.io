@@ -13,6 +13,7 @@ sidebar:
   - text: "G0BQK"
   - text: "G0UWS"
   - text: "G0UWU"
+  - text: "G1ERM"
   - text: "G1OQV"
   - text: "G3MNJ"
   - text: "G4AJA"
