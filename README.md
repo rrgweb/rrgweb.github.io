@@ -42,7 +42,7 @@ Add PDF file to ```assets/pdf``` directory and edit the ```_pages/newsletter.md`
 
 #### Updating membership
 
-Add/remove callsigns from the list contained in ```_pages/membership.md``` 
+Add/remove callsigns from the list contained in the file ```_pages/membership.md``` 
 
 #### Build/Deployment (Publishing)
 
