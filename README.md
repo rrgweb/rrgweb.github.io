@@ -13,6 +13,8 @@ Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, for
    2022-12-31-new-years-eve-is-awesome.md
    2023-01-21-GB3TD-Echolink.md
 ```
+N.B. The date in the filename is important as it is used to place the blog posts in the correct chronological order.
+
 All blog post files must begin with a basic header in a block between two ```---``` delimeters:
 
 ```
