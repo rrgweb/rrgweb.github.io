@@ -44,7 +44,7 @@ Add/remove from the list contained in ```_pages/membership.md```
 
 #### Build/Deployment (Publishing)
 
-After editing you can check at the following link to follow the web deployment, which is automatic upon change to the site:
+After editing you can check at the following link to follow the web deployment, which is an automatic process after changes have been made to this repository:
 
 https://github.com/rrgweb/rrgweb.github.io/deployments/activity_log?environment=github-pages
 
