@@ -1,6 +1,6 @@
 # RRG website
 
-This site is built using Jekyll with the minimalmistakes theme.
+This site is built using Jekyll with the minimalmistakes theme. The site is published as ```rrgweb.github.io``` - the main ```rrg.org.uk``` domain redirects to this address.
 
 #### Posts
 
@@ -40,7 +40,7 @@ Add PDF file to ```assets/pdf``` directory and edit the ```_pages/newsletter.md`
 
 #### Updating membership
 
-Add/remove from the list contained in ```_pages/membership.md``` 
+Add/remove callsigns from the list contained in ```_pages/membership.md``` 
 
 #### Build/Deployment (Publishing)
 
