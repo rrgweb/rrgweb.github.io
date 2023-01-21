@@ -8,7 +8,7 @@ To create a post, add a new file to the ```_posts``` directory with the followin
 
 YEAR-MONTH-DAY-title.md
 
-Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, for example the following filenames are valid.::
+Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, for example the following filenames are valid::
 
    2022-12-31-new-years-eve-is-awesome.md
    2023-01-21-GB3TD-Echolink.md
@@ -27,6 +27,10 @@ All blog post files must begin with a basic header in a block between two ```---
 
    I hope you like it!
 ```
+
+The text after this header is standard ``markdown`` formated text. More information on basic markdown syntax can be found here:
+
+https://www.markdownguide.org/basic-syntax
 
 #### Newsletters
 
