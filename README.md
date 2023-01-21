@@ -15,6 +15,7 @@ Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, for
 
 All blog post files must begin with a basic header in a block between two ```---``` delimeters::
 
+```
    ---
    layout: post
    title:  "RRG Test Post Title"
@@ -25,6 +26,7 @@ All blog post files must begin with a basic header in a block between two ```---
    **This is bold**, and this is my first Jekyll blog post.
 
    I hope you like it!
+```
 
 #### Newsletters
 
