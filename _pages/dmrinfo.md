@@ -72,16 +72,7 @@ Roaming TG are used to access the DMR repeaters in another region, for example, 
 ##### Local monitoring of GB7TC
 This shows who is using GB7TC, by following links you can monitor an individual call sign or switch to other DMR repeaters.
 
-[http://www.dmr-uk.net/monitor.php?filter=rpt&rptid=235250](http://www.dmr-uk.net/monitor.php?filter=rpt&rptid=235250)
-
-##### Monitoring the UK DMR network
-This shows the status of the UK (and some Dutch) DMR repeaters, also the traffic on the links to Wires and Brandmeister networks.
-
-[http://phoenix-k.opendmr.net/ipsc/](http://phoenix-k.opendmr.net/ipsc/)
-
-##### Monitoring the UK Hotspots
-
-[http://phoenix-f.opendmr.net/ipsc/](http://phoenix-f.opendmr.net/ipsc/)  
+[http://stats.dvscotland.net/monitor.php?filter=rpt&rptid=235250](http://stats.dvscotland.net/monitor.php?filter=rpt&rptid=235250)
 
 
 ##### Checking the internet link from GB7TC
@@ -91,7 +82,6 @@ If you use the echo TG9990 and it fails to echo audio, then the link is down or 
 #### GPS TO APRS
 For those getting to grips with GPS to APRS. There are a few different private talk groups you can send the data to which produce different behaviour on APRS.  
 
-[http://www.dmr-uk.net/index.php/aprs-to-gps/](http://www.dmr-uk.net/index.php/aprs-to-gps/)  
 
 |RRS & Radio IDs| |
 |---|---|
@@ -127,13 +117,11 @@ The reflector groups linking is currently as follows:
 |4480 (Northern Ireland)|TG880|880|2|
 |4491 (SE England)|TG801|801|2|
 
-For the latest info [http://www.dmr-uk.net/index.php/layout/](http://www.dmr-uk.net/index.php/layout/)
-
 If there is anything else that you would like explained, send me an e-mail [g8vri@rrg.org.uk](mailto:g8vri@rrg.org.uk)
 
 Explanation and full list of talk groups and time slots on GB7TC can be downloaded here
 
-For further information and more detail see [www.dmr-uk.net](http://www.dmr-uk.net)
+For further information and more detail see [https://www.dvscotland.net/home](https://www.dvscotland.net/home)
 
 #### TYT MD380
 The Tytera MD380 DMR/FM handportable has become popular with a lot of radio amateurs. The latest code plug with GB7TC included can be downloaded here [md380-rt3-swindon.rdt]({{ site.url }}/assets/codeplugs/md380-rt3-swindon.rdt)
