@@ -74,6 +74,16 @@ This shows who is using GB7TC, by following links you can monitor an individual 
 
 [http://stats.dvscotland.net/monitor.php?filter=rpt&rptid=235250](http://stats.dvscotland.net/monitor.php?filter=rpt&rptid=235250)
 
+##### Monitoring the UK DMR network
+This shows the status of the UK (and some Dutch) DMR repeaters, also the traffic on the links to Wires and Brandmeister networks.
+
+[http://phoenix-k.opendmr.net/ipsc/](http://phoenix-k.opendmr.net/ipsc/)
+
+##### Monitoring the UK Hotspots
+
+[http://phoenix-f.opendmr.net/ipsc/](http://phoenix-f.opendmr.net/ipsc/)  
+
+
 
 ##### Checking the internet link from GB7TC
 
