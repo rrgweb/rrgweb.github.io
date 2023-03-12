@@ -22,6 +22,7 @@ sidebar:
   - text: "G4WQG"
   - text: "G4XIB"
   - text: "G4XUT"
+  - text: "G7HEU/M0HEU"
   - text: "G8EFK"
   - text: "G8MXE"
   - text: "G8VRI"
@@ -29,6 +30,7 @@ sidebar:
   - text: "M0JYH"
   - text: "M0LUF"
   - text: "M0SWL"
+  - text: "M0TFY"
   - text: "M1EFY"
 ---
 
