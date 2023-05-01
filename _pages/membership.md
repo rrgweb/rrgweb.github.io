@@ -29,6 +29,7 @@ sidebar:
   - text: "G8VVY"
   - text: "M0JYH"
   - text: "M0LUF"
+  - text: "M0MPL"
   - text: "M0SWL"
   - text: "M0TFY"
   - text: "M1EFY"
