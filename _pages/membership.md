@@ -4,6 +4,12 @@ title: "Membership"
 classes: wide
 
 sidebar:
+  - title: "Members (2023-2024)"
+  - text: "2E0CYS"
+  - text: "G0BEQ"
+  - text: "G0UWS"
+  - text: "G3MNJ"
+  - text: "G4XUT"
   - title: "Members (2022-2023)"
   - text: "2E0GGU"
   - text: "2E0OQV"
