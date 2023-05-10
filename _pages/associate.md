@@ -8,7 +8,7 @@ The following sites may be of interest to members:
 
 [Swindon and District Amateur Radio Club](https://www.sdarc.net)
 
-[UK Repeater Information](https://ukrepeater.net/index.html)
+[UK Repeater Information](https://ukrepeater.net)
 
 [Repeater Builders' Website](http://www.repeater-builder.com/rbtip)
 
