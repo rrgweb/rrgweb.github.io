@@ -4,11 +4,13 @@ title: "Associate Sites"
 classes: wide
 ---
 
+
+
 The following sites may be of interest to members:
 
 [Swindon and District Amateur Radio Club](https://www.sdarc.net)
 
-[UK Repeater Information](https://ukrepeater.net)
+<a href="https://ukrepeater.net" target="_blank">UK Repeater Information (opens in a new tab)</a>
 
 [Repeater Builders' Website](http://www.repeater-builder.com/rbtip)
 
