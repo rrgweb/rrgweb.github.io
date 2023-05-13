@@ -22,6 +22,7 @@ Treasurer: Martin G0BQK [accounts@rrg.org.uk](mailto:accounts@rrg.org.uk)
 Committee member: Andy G0BEQ [g0beq@rrg.org.uk](mailto:g0beq@rrg.org.uk)\
 Committee member: Andy G0UWS [g0uws@rrg.org.uk](mailto:g0uws@rrg.org.uk)\
 Committee member: Andy M1EFY [m1efy.radio@gmail.com](mailto:m1efy.radio@gmail.com)  
+Committee member: Bob G0VNP [g0vnp@btinternet.com](mailto:g0vnp@btinternet.com)  
 
 GB3WH repeater keeper: Tony G4LDL [g4ldl@rrg.org.uk](mailto:g4ldl@rrg.org.uk)\
 GB3TD repeater keeper: Rob G4XUT [g4xut@rrg.org.uk](mailto:g4xut@rrg.org.uk)\
