@@ -9,6 +9,7 @@ sidebar:
   - text: "2E0HFV"
   - text: "2E0OQV"
   - text: "G0BEQ"
+  - text: "G0BQK"
   - text: "G0UWS"
   - text: "G0VNP"
   - text: "G1NCG"
