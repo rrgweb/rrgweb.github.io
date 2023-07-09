@@ -10,6 +10,10 @@ toc_sticky: true
 The group publishes an occasional newsletter, distributed to members by email. An archive of these newsletters is provided below:
 
 
+#### 2023
+[Quarter 2 2023]({{ site.url }}/assets/pdf/2023_q2_newsletter.pdf)\
+[Quarter 1 2023]({{ site.url }}/assets/pdf/2023_q1_newsletter.pdf)
+
 #### 2022
 [Quarter 4 2022]({{ site.url }}/assets/pdf/2022_q4_newsletter.pdf)\
 [Quarter 3 2022]({{ site.url }}/assets/pdf/2022_q3_newsletter.pdf)\
