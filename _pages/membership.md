@@ -20,6 +20,7 @@ sidebar:
   - text: "G4MUF"
   - text: "G4XIB"
   - text: "G4XUT"
+  - text: "G7HEU/M0HEU"
   - text: "G8MXE"
   - text: "G8VRI"
   - text: "G8VVY"
