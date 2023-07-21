@@ -26,7 +26,7 @@ sidebar:
   - text: "G8VRI"
   - text: "G8VVY"
   - text: "M0AHN"
-  - text: "M0AON"
+  - text: "M0ANO"
   - text: "M0LUF"
   - text: "M0SWL"
   - text: "M1CJE"
