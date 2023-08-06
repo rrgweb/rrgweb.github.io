@@ -6,6 +6,7 @@ classes: wide
 sidebar:
   - title: "Members (2023-2024)"
   - text: "2E0CYS"
+  - text: "2E0GGU"
   - text: "2E0OQV"
   - text: "G0BEQ"
   - text: "G0BQK"
