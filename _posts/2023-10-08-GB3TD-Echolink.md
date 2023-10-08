@@ -1,11 +1,13 @@
- ---
-   layout: post
-   title:  "GB3TD Echolink - Possible Disruption"
-   ---
+---
+layout: post
+title:  "GB3TD Echolink - Network Maintenance from 10/10/23"
+---
 
-   # GB3TD Echolink Maintenance 
-   
-   From Tuesday 10th October 2023 there may be some disruption to the GB3TD Echolink service due to network maintenance. We will update this post
-   as soon as we have futher information.
+Important - GB3TD - Echolink network maintenance
+------------------------------------------------
 
-   Andy (M1EFY)
+The Echolink service on GB3TD is liable to disruption due to networking maintenace from 10/10/2023 for two weeks.
+
+Apologies for any inconvenience.
+
+Rob G4XUT
