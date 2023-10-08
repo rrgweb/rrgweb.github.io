@@ -1,6 +1,7 @@
 ---
-layout: post
-title:  "GB3TD Echolink - Network Maintenance from 10/10/23"
+title: 'GB3TD Echolink Maintenance'
+author: Andy
+tags: 
 ---
 
 Important - GB3TD - Echolink network maintenance
