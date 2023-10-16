@@ -4,11 +4,9 @@ author: Andy
 tags: 
 ---
 
-Important - GB3TD - Echolink network maintenance (from 10/10/2023)
-------------------------------------------------------------------
+Important - GB3TD - Echolink network maintenance (10/10/2023 - complete)
+------------------------------------------------------------------------
 
-The Echolink service on GB3TD is liable to disruption due to networking maintenance from 10/10/2023 for two weeks. 
-
-Apologies for any inconvenience.
+The Echolink service on GB3TD has now been moved to a new Internet connection and is working normally. 
 
 Rob G4XUT
