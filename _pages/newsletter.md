@@ -11,6 +11,7 @@ The group publishes an occasional newsletter, distributed to members by email. A
 
 
 #### 2023
+[Quarter 4 2023]({{ site.url }}/assets/pdf/2023_q4_newsletter.pdf)\
 [Quarter 3 2023]({{ site.url }}/assets/pdf/2023_q3_newsletter.pdf)\
 [Quarter 2 2023]({{ site.url }}/assets/pdf/2023_q2_newsletter.pdf)\
 [Quarter 1 2023]({{ site.url }}/assets/pdf/2023_q1_newsletter.pdf)
