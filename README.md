@@ -15,12 +15,13 @@ Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, for
 ```
 N.B. The date in the filename is important as it is used to place the blog posts in the correct chronological order.
 
-All blog post files must begin with a basic header in a block between two ```---``` delimeters:
+All blog post files must begin with a basic header in a block between two ```---``` delimeters (for example):
 
 ```
    ---
-   layout: post
-   title:  "RRG Test Post Title"
+   title: 'GB3TD Echolink Maintenance'
+   author: Andy
+   tags: 
    ---
 
    # Welcome to this post
