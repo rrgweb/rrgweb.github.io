@@ -69,11 +69,6 @@ Roaming TG are used to access the DMR repeaters in another region, for example, 
 
 #### MONITORING THE DMR NETWORK
 
-##### Local monitoring of GB7TC
-This shows who is using GB7TC, by following links you can monitor an individual call sign or switch to other DMR repeaters.
-
-[http://stats.dvscotland.net/monitor.php?filter=rpt&rptid=235250](http://stats.dvscotland.net/monitor.php?filter=rpt&rptid=235250)
-
 ##### Monitoring the UK DMR network
 This shows the status of the UK (and some Dutch) DMR repeaters, also the traffic on the links to Wires and Brandmeister networks.
 
@@ -128,10 +123,6 @@ The reflector groups linking is currently as follows:
 |4491 (SE England)|TG801|801|2|
 
 If there is anything else that you would like explained, send me an e-mail [g8vri@rrg.org.uk](mailto:g8vri@rrg.org.uk)
-
-Explanation and full list of talk groups and time slots on GB7TC can be downloaded here
-
-For further information and more detail see [https://www.dvscotland.net/home](https://www.dvscotland.net/home)
 
 #### TYT MD380
 The Tytera MD380 DMR/FM handportable has become popular with a lot of radio amateurs. The latest code plug with GB7TC included can be downloaded here [md380-rt3-swindon.rdt]({{ site.url }}/assets/codeplugs/md380-rt3-swindon.rdt)
