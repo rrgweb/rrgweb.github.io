@@ -54,7 +54,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - faraday-retry
 
 author:
 #  name   : "First Lastname"
