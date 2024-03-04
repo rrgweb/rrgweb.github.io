@@ -18,7 +18,7 @@ sidebar:
 |**Antenna**|	End fed 0db gain / Single aerial working|
 |**Location**|	8km Southeast of Swindon, Wiltshire|
 |**Locator**|	IO91EM|
-|**Repeater Keeper**|	Tony G4LDL|
+|**Repeater Keeper**|	Andy G0UWS|
 
 !["Coverage map by kind permission of UKrepeater.net"]({{ site.url }}{{ site.baseurl }}/assets/images/gb3wh_coverage.jpg)
 
